@@ -1,1 +1,2 @@
-Calculations of SNR, standart deviation and mean
+Ergodicity of X-ray images
+Check if it has Poisson distribution
